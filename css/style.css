@@ -1,0 +1,98 @@
+body {
+    background-color: rgb(243, 243, 243);
+    font-size: 23px;
+}
+
+.title {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.line {
+    width: 60px;
+    height: 4px;
+    margin: auto;
+    background-color: black;
+    margin-top: -25px;
+}
+
+.item1 {
+    border: 2px solid rgb(0, 0, 0);
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    float: left;
+    margin: 30px auto;
+}
+
+.text1 {
+    text-transform: uppercase;
+}
+
+.circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin: auto;
+}
+
+.btn{
+    padding: 10px;
+    font-size: inherit;
+}
+
+.container1 {
+    margin-left: 100px;
+    margin-right: 40px;
+    background-color: #CDFADB;
+}
+
+.container1:hover {
+    background-color:#FFD0EC;
+}
+
+.circle1:hover {
+    background-color: antiquewhite;
+}
+
+.btn1:hover {
+    background-color: #ffffff;
+}
+
+.container2 {
+    margin-right: 40px;
+    background-color:#FBFADA;
+}
+
+.container2:hover {
+    background-color:#FEFBF6;
+}
+
+.circle2:hover {
+    background-color: #CDFADB;
+}
+
+.btn2:hover {
+    background-color: rgb(50, 50, 50);
+    color: white;
+}
+/* ////////////////// */
+
+.container3 {
+    background-color: #FFD0EC;
+}
+
+.container3:hover {
+    background-color:#FFF6E9;
+}
+
+.circle3:hover {
+    background-color: #93e7ff52;
+}
+
+.btn3:hover {
+    background-color: #f5ffd3;
+}
+
+/* /////////////////////////// */
